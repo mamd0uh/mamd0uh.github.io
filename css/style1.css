@@ -1,0 +1,31 @@
+	h2{color: darkred; 
+		font-family: sans-serif;
+		font-weight: 500px;
+		text-align: center;
+		border: 5px outset red;
+  					background-color: lightblue;    
+  					text-align: center;
+		}
+
+		h3{color: sandybrown; 
+		font-family: sans-serif;
+		font-weight: 500px;
+		text-align: center;
+		}
+
+		h4{color: chocolate;
+			font-family: initial;}
+
+		P{color: Blue;}
+
+		ul{font-family: fantasy;
+			font-size: medium;}
+
+			a{color: yellowgreen;
+				text-align: center;}
+
+				nav{text-align: center;
+					font-size: x-large;}
+
+					#intro{ color: darkseagreen;}
+
