@@ -1,1 +1,0 @@
-# mamd0uh.github.io
